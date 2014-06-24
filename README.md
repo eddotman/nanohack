@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/170270/3343034/ceef6e92-f899-11e3-96b9-5d9d69d97a00.png)](https://github.com/google/web-starter-kit/releases)
 
 
@@ -119,3 +120,9 @@ Contributions, questions and comments are all welcome and encouraged. For code c
 
 Apache 2.0  
 Copyright 2014 Google Inc
+=======
+nanohack
+========
+
+Hashtag aggregate using Google's Web Starter Kit
+>>>>>>> 204d6856eeff2b816c191417a1dc9f6472613b20
